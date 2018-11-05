@@ -16,4 +16,8 @@ One more great commit
 
 ## Section on commits
 
-This is a tremendio`
+This is a tremendous commit.
+
+### Section on pull requests
+
+Do it. 
