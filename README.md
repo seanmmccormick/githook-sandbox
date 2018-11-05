@@ -21,3 +21,7 @@ This is a tremendous commit.
 ### Section on pull requests
 
 Do it. 
+
+## Section on dogs
+
+Woof
