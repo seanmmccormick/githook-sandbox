@@ -1,0 +1,5 @@
+#!/bin/bash
+
+echo Foo >> README.md
+git ci -am "$(echo -e Added a commit message\\n\\n$(date))"
+git push 
